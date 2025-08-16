@@ -1,0 +1,18 @@
+# Core LangGraph and LangChain dependencies
+langgraph>=0.0.20
+langchain>=0.1.0
+langchain-openai>=0.0.5
+
+# HTTP requests for GitHub API
+requests>=2.31.0
+
+# Python typing support
+typing-extensions>=4.8.0
+
+# Environment variable management (optional)
+python-dotenv>=1.0.0
+
+# Development dependencies (optional)
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0 
